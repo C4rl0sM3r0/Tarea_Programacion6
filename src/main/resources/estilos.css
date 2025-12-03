@@ -1,0 +1,13 @@
+#btnCalcular {
+    -fx-background-color: #388e3c; /* verde */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
+
+#btnNuevo {
+    -fx-background-color: #1976d2; /* azul */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
